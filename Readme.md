@@ -39,11 +39,10 @@ el usuario pueda ingresar datos en el arbol.
 --> **EJEMPLOS DE EJECUCIÓN**
 
 ![Menú Principal](./src/images/insertar_1.png)
-![Menú Principal](./src/images/insertar_2.png)
+![Menú](./src/images/insertar_2.png)
 ![Inorden](./src/images/Inorden.png)
 ![Buscar_True](./src/images/Buscar_true.png)
 ![Buscar_False](./src/images/Buscar_False.png)
-
 
 --> **INTEGRANTES DEL GRUPO**
 * `Sara Gabriela Castro Mora`
